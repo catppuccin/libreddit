@@ -9,6 +9,7 @@
     <a href="https://github.com/catppuccin/libreddit/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/libreddit?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/libreddit/issues"><img src="https://img.shields.io/github/issues/catppuccin/libreddit?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/libreddit/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/libreddit?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+	<a href="https://raw.githubusercontent.com/catppuccin/libreddit/main/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=313244&style=for-the-badge"></a>
 </p>
 
 
@@ -17,9 +18,10 @@
 
 ## Usage
 
-1. Copy the contents of `libreddit.css` to a css injector like [Stylus](https://github.com/openstyles/stylus).
-2. Change the first line from `.catppuccin` to `.dark`.
-3. Add the URL of the libreddit instance to the list of domains which the theme applies.
+#### Stylus
+1. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
+2. Enable CSP Patching from Stylus Settings > Advanced.
+3. [Click here to install.](https://github.com/catppuccin/libreddit/raw/main/catppuccin.user.css)
 4. Enjoy!
 
 ## 💝 Thanks to
