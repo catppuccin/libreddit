@@ -6,10 +6,10 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/libreddit/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/libreddit?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/libreddit/issues"><img src="https://img.shields.io/github/issues/catppuccin/libreddit?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/libreddit/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/libreddit?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
-	<a href="https://raw.githubusercontent.com/catppuccin/libreddit/main/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=313244&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/libreddit/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/libreddit?colorA=181825&colorB=b4befe&style=for-the-badge&logo=starship style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/libreddit/issues"><img src="https://img.shields.io/github/issues/catppuccin/libreddit?colorA=181825&colorB=fab387&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/libreddit/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/libreddit?colorA=181825&colorB=a6e3a1&style=for-the-badge"></a>
+    <a href="https://raw.githubusercontent.com/catppuccin/libreddit/main/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=181825&colorB=cba6f7&style=for-the-badge"></a>
 </p>
 
 
