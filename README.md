@@ -13,7 +13,7 @@
 </p>
 
 
-![Libreddit Theme Preview](assets/ss.png)
+![Libreddit Theme Preview](assets/screenshot.png)
 
 
 ## Usage
