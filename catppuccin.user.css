@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Libreddit Catppuccin
 @namespace      github.com/catppuccin/libreddit
-@version        2.0.0
+@version        2.0.1
 @description    Soothing pastel theme for Libreddit
 @author         Catppuccin
 @updateURL      https://github.com/catppuccin/libreddit/raw/main/catppuccin.user.css
@@ -147,10 +147,17 @@
 	}
 
 
-
 	.light,
-	.dark {
-
+	.dark,
+    .black,
+    .dracula,
+    .gold,
+    .laserwave,
+    .nord,
+    .rosebox,
+    .violet,
+    :root, .dark,
+    :root, .light {
 		--accent: $lavender;
 		--green: $green;
 		--text: $text;
