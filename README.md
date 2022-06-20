@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/libreddit/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/libreddit?colorA=181825&colorB=b4befe&style=for-the-badge&logo=starship style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/libreddit/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/libreddit?colorA=181825&colorB=b4befe&style=for-the-badge style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/libreddit/issues"><img src="https://img.shields.io/github/issues/catppuccin/libreddit?colorA=181825&colorB=fab387&style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/libreddit/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/libreddit?colorA=181825&colorB=a6e3a1&style=for-the-badge"></a>
     <a href="https://raw.githubusercontent.com/catppuccin/libreddit/main/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=181825&colorB=cba6f7&style=for-the-badge"></a>
@@ -32,4 +32,4 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center">Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
-<p align="center"><a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=b7bdf8"/></a></p>
+<p align="center"><a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a></p>
